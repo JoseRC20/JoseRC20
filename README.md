@@ -13,20 +13,31 @@ Posteriormente, el proyecto se llevó a un entorno Docker, por lo que aprendí a
 
 Proyectos destacados:
 -Calibración-KSB: Aplicación web para generación de etiquetas.
+  
   Tecnologías: React, NodeJS, JS, google Drive.
+  
   Rol: Desarrollador.
+  
   Resultados: Aplicación web capaz de generar etiquetas con un código QR que almacena un link público del archivo adjunto   y datos que se entregan en el formulario.
+  
   <img width="1907" height="995" alt="Captura de pantalla 2025-11-03 102156" src="https://github.com/user-attachments/assets/ae5bf396-fff3-4196-aea0-701710517221" />
 
 -practUNAB: Plataforma web para gestionar flujo de prácticas profesionales dentro de la Universidad Andrés Bello.
+  
   Tecnologías: React, Nodejs, Bootstrap, MongoDB Atlas.
+  
   Rol: Desarrollador.
+  
   Resultados: Aplicación web capaz de entregar diferentes vistas para el tipo de usuario, junto con un administrador que    maneja la creación y eliminación de usuarios. Estudiantes puede completar formulario para su práctica profesional,        revisar Hitos que son parte de su ramo de práctica y ver su perfil como estudiante. Secretaría puede aprobar o rechazar   formulario de práctica. Profesor puede revisar Hitos y agregar observaciones, revisar su lista de estudiantes.
+  
   <img width="1898" height="1022" alt="Inicio" src="https://github.com/user-attachments/assets/3b573c56-3289-4c62-9924-79477dd10459" />
 
 -Tokyo-Bites: Aplicación web para una cadena de comida, con el fin de manejar compra y venta de productos.
+  
   Tecnologías: React, JS, Taildwind, MongoDB Atlas.
+  
   Rol: Diseñador web.
+  
   Resultado: Plataforma capaz de manejar la compra y venta de productos de comida, incluyendo carrito de compras, metodo    de pago, editar cantidades, manejar imagenes de productos, etc.
   
 Curriculum Vitae:
