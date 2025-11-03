@@ -1,4 +1,5 @@
--Perfil profesional
+Perfil profesional:
+
 Soy estudiante en etapa final de la carrera de Ingeniería en Computación e Informática en la Universidad Andrés Bello.
 Me interesa desarrollarme profesionalmente en distintas áreas del ámbito TI, especialmente en desarrollo de software, desarrollo web, diseño UX/UI y, más adelante, en desarrollo de videojuegos.
 Me caracterizo por ser una persona dedicada, con alto sentido de responsabilidad y capacidad de aprendizaje rápido. Cuando el proyecto lo requiere, puedo incorporar nuevas tecnologías “sobre la marcha” y adaptarme al entorno de la empresa, siempre con la intención de aportar y optimizar procesos.
@@ -6,6 +7,7 @@ Me caracterizo por ser una persona dedicada, con alto sentido de responsabilidad
 En cuanto a herramientas, trabajo con React y JavaScript, tengo conocimientos básicos de Python y suelo utilizar Bootstrap para la construcción de interfaces web.
 
 Experiencia reciente:
+
 Durante mi última práctica profesional participé en el desarrollo de una aplicación web para el área de calibración de una empresa. El objetivo era generar etiquetas con código QR a partir de documentos almacenados en Google Drive, permitiendo obtener enlaces públicos desde la plataforma. La solución se desarrolló utilizando React, JavaScript y Bootstrap.
 Posteriormente, el proyecto se llevó a un entorno Docker, por lo que aprendí a contenedizar la aplicación y a desplegarla en ese formato, integrando lo aprendido durante el proceso.
 
